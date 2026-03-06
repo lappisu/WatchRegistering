@@ -1,0 +1,545 @@
+# flags.txt
+# Compiled into the binary at build time via include_str!()
+# One term per line. Lines starting with # are ignored.
+# Terms are matched after unicode normalisation, leet substitution,
+# and diacritic stripping -- no need to list variants manually.
+#
+# Sections are comments only; all terms are checked regardless of section.
+
+# ---------------------------------------------------------------------------
+# ENGLISH -- slurs and hate speech
+# ---------------------------------------------------------------------------
+nigger
+nigga
+niggress
+niggeress
+spearchucker
+porch monkey
+pavement ape
+coon
+spook
+jigaboo
+jiggaboo
+dindu nuffin
+bootlip
+bluegum
+moolie
+wetback
+beaner
+mexcrement
+spic
+gook
+chink
+ching chong
+chinaman
+slanteye
+towelhead
+raghead
+sandnigger
+sand nigger
+camel jockey
+goatfucker
+kike
+kikesucker
+hook nose
+oven dodger
+holocaust denier
+neonazi
+nazi
+white power
+white supremacy
+faggot
+faggots
+dyke
+dykes
+queer
+pedo
+pedophile
+paedophile
+touch kids
+nambla
+sheboon
+sheeboon
+feminazi
+honkey
+redneck
+trailer trash
+hillbilly
+wigger
+whigger
+pikey
+paki
+chav
+
+# ---------------------------------------------------------------------------
+# ENGLISH -- explicit sexual content
+# ---------------------------------------------------------------------------
+anal
+anilingus
+anus
+arsehole
+asshole
+bdsm
+bestiality
+beastiality
+blowjob
+bondage
+boner
+bukakke
+camslut
+camwhore
+circlejerk
+clit
+clitoris
+cock
+creampie
+cum
+cumming
+cumshot
+cunnilingus
+cunt
+deepthroat
+dildo
+domination
+dominatrix
+ejaculation
+erotic
+fecal
+felch
+fellatio
+fisting
+footjob
+frottage
+fuck
+fucking
+gangbang
+genitals
+handjob
+hardcore
+hentai
+incest
+jizz
+jailbait
+lolita
+masturbate
+masturbation
+milf
+nipple
+nude
+nudity
+orgasm
+orgy
+panties
+pedophile
+penis
+pissing
+porn
+porno
+pornography
+pussy
+rape
+raping
+rapist
+rectum
+rimjob
+rimming
+sadism
+scat
+semen
+sex
+shemale
+sodomy
+spunk
+strap on
+threesome
+tits
+titties
+twat
+upskirt
+vagina
+vibrator
+voyeur
+vulva
+whore
+zoophilia
+yaoi
+futanari
+shota
+loli
+nsfw
+
+# ---------------------------------------------------------------------------
+# ENGLISH -- threats and self-harm
+# ---------------------------------------------------------------------------
+kill yourself
+kys
+kill all
+how to murder
+how to kill
+terrorist threat
+suicide
+self harm
+
+# ---------------------------------------------------------------------------
+# RUSSIAN
+# ---------------------------------------------------------------------------
+хуй
+хуйня
+пизда
+пизды
+пиздец
+пиздить
+ёбаный
+ебаный
+ебать
+ебало
+ёб твою мать
+сука
+суки
+блядь
+бляди
+блять
+залупа
+мудак
+мудаки
+пидор
+пидорас
+пидорасы
+педик
+педиков
+педераст
+гандон
+гондон
+ублюдок
+ублюдки
+уёбок
+уёбки
+долбоёб
+долбоёбы
+шлюха
+шлюхи
+проститутка
+дрочить
+дрочер
+еблан
+ёпт
+нахуй
+нахуя
+охуеть
+охуел
+охуенно
+похуй
+похуист
+залупа
+залупить
+расист
+нигер
+нигга
+нацист
+педофил
+педофилия
+убью
+убью тебя
+
+# ---------------------------------------------------------------------------
+# POLISH
+# ---------------------------------------------------------------------------
+kurwa
+kurwy
+kurewski
+kurewstwo
+chuj
+chuja
+chujowy
+pierdol
+pierdolić
+pierdolony
+pierdolec
+pierdolnięty
+pizda
+pizdy
+jebać
+jebany
+jebanie
+jebnięty
+skurwysyn
+skurwielbłąd
+skurwiel
+dupek
+dupa
+dupsko
+cipa
+cipka
+ciota
+szmata
+dziwka
+dziwki
+pedał
+pedały
+pedal
+pedały
+do gazu
+dogazu
+świnia
+świniach
+pojeb
+pojebany
+skurwiony
+kurwić
+kurwiony
+burdel
+kurwiszon
+chujek
+chujnia
+zajebiście
+zajebisty
+odjebać
+wyjebać
+zjebać
+najebać
+pierdolec
+
+# ---------------------------------------------------------------------------
+# FRENCH
+# ---------------------------------------------------------------------------
+connasse
+connard
+connards
+pute
+putes
+putain
+putains
+merde
+merdes
+salope
+salopes
+enculer
+enculé
+enculée
+fils de pute
+foutre
+bordel
+chier
+suceur
+crétin
+enfoiré
+pédé
+pédés
+fellation
+chienne
+abruti
+taré
+teubé
+baisé
+baise
+niquer
+nique
+niquer ta mère
+va te faire foutre
+ferme ta gueule
+
+# ---------------------------------------------------------------------------
+# PORTUGUESE
+# ---------------------------------------------------------------------------
+porra
+caralho
+puto
+puta
+putas
+vagabundo
+vagabunda
+desgraçado
+desgraçada
+retardado
+retardada
+mongoloide
+viado
+fudido
+fudida
+filho da puta
+arrombado
+arrombada
+bosta
+merda
+pinto
+foda
+escroto
+bicha
+buceta
+piroca
+cuzão
+corno
+
+# ---------------------------------------------------------------------------
+# SPANISH
+# ---------------------------------------------------------------------------
+coño
+coños
+puta
+putas
+hijo de puta
+maricón
+maricones
+pendejo
+pendejos
+culero
+culeros
+cabron
+cabrona
+chinga
+chingada
+chingado
+chingar
+verga
+polla
+culo
+mamón
+mamones
+pinche
+joder
+follar
+follar
+gilipollas
+capullo
+zorra
+zorras
+hostia
+me cago
+
+# ---------------------------------------------------------------------------
+# GERMAN
+# ---------------------------------------------------------------------------
+scheiße
+scheiß
+scheisskopf
+arschloch
+arsch
+ficken
+fick dich
+wichser
+wichsen
+hurensohn
+hure
+huren
+nutte
+nutten
+schwuchtel
+fotze
+schlampe
+schlampen
+verpissdich
+kanake
+pisser
+missgeburt
+kacke
+dreckstück
+blödmann
+idiot
+vollidiot
+neonazi
+nazi
+rechtsextrem
+
+# ---------------------------------------------------------------------------
+# DUTCH
+# ---------------------------------------------------------------------------
+kanker
+kankerlyer
+tyfus
+teringlijer
+tering
+godverdomme
+hoer
+hoeren
+mongool
+dikzak
+neuken
+lul
+lulhannes
+kut
+kutwijf
+klootzak
+rotmof
+schijtlijster
+donder op
+
+# ---------------------------------------------------------------------------
+# CROATIAN / SERBIAN / BOSNIAN
+# ---------------------------------------------------------------------------
+picka
+pička
+pičke
+jeben
+jebeno
+jebi se
+jebem
+jebo
+odjebi
+zajeban
+sjeban
+kurva
+kurve
+kurvo
+pizda
+kurac
+sranje
+pizdolizac
+jedi govna
+crncuga
+glupi
+usrani
+
+# ---------------------------------------------------------------------------
+# SLOVENE
+# ---------------------------------------------------------------------------
+jebi se
+jebiga
+jebela cesta
+kreten
+debil
+pička
+kurac
+cigan
+peder
+
+# ---------------------------------------------------------------------------
+# ITALIAN
+# ---------------------------------------------------------------------------
+cazzo
+cazzi
+fanculo
+vaffanculo
+stronzo
+stronza
+troia
+troie
+puttana
+puttane
+bastardo
+bastarda
+figlio di puttana
+coglione
+coglioni
+porco dio
+merda
+minchia
+sfigato
+
+# ---------------------------------------------------------------------------
+# KNOWN BAD ACTORS / PLATFORM-SPECIFIC
+# ---------------------------------------------------------------------------
+# Add known ban-evading account bases here.
+# These are matched as substrings after normalisation.
+imosyx
+bokator
+
+# ---------------------------------------------------------------------------
+# PLATFORM-SPECIFIC BEHAVIOURAL FLAGS
+# ---------------------------------------------------------------------------
+cheat
+hack
+exploit
+aimbot
+bot 
+xp 
+wallhack
