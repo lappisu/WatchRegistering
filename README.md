@@ -6,7 +6,7 @@ Monitors new user registrations across KoGaMa servers, checks usernames against 
 
 ## Overview
 
-User Monitor polls the KoGaMa registration feed, processes each new account in order, and routes it to one of two Discord webhooks depending on whether the username is clean or flagged. All flag terms are compiled directly into the binary — no external files required at runtime beyond the state file and log.
+User Monitor polls the KoGaMa registration feed, processes each new account in order, and routes it to one of two Discord webhooks depending on whether the username is clean or flagged. All flag terms are compiled directly into the binary - no external files required at runtime beyond the state file and log.
 
 ---
 
